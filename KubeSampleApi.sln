@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KubeSampleApi", "KubeSampleApi\KubeSampleApi.csproj", "{9F2D84FF-91D4-40FF-AAAF-16404023AE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F2D84FF-91D4-40FF-AAAF-16404023AE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2D84FF-91D4-40FF-AAAF-16404023AE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2D84FF-91D4-40FF-AAAF-16404023AE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2D84FF-91D4-40FF-AAAF-16404023AE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC983858-5902-4E23-9F4B-649BE0D0B5B6}
+	EndGlobalSection
+EndGlobal
